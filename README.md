@@ -1,7 +1,8 @@
-<div align="center">
 ## Hi there 👋
 
+
 **I'm Tanvir • Data Scientist • ML Engineer based in Bangladesh**
+
 
 <!--
 **Tanvir-Sheikh-R/Tanvir-Sheikh-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +45,7 @@ I enjoy working on practical ML projects, exploring NLP, deep learning, and depl
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,gcp,html&perline=6)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=css,postgres,mysql,vscode,linux,bash&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,mysql,vscode,anaconda,mongodb,bash&perline=6)](https://skillicons.dev)
 
 <br>
 
@@ -62,13 +63,7 @@ I enjoy working on practical ML projects, exploring NLP, deep learning, and depl
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
----
 
 *⭐ If you find my projects useful, consider starring them!*
 
-</div>
+
