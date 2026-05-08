@@ -41,12 +41,14 @@ I enjoy working on practical ML projects, exploring NLP, deep learning, and depl
 
 <br>
 
+<div align="center">
+  
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,kubernetes,flask,fastapi&perline=6)
 
 ![My Skills](https://skillicons.dev/icons?i=docker,git,github,aws,gcp,html&perline=6)
 
 ![My Skills](https://skillicons.dev/icons?i=css,mysql,vscode,anaconda,mongodb,bash&perline=6)
-
+</div>
 <br>
 
 **Also working with:**
